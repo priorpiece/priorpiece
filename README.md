@@ -1,16 +1,14 @@
-## Hi there 👋
+# Je Hee, Lee 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priorpeice&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh9459)](https://solved.ac/ljh9459/)
 
-<!--
-**priorpiece/priorpiece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contact
+Email: ljh945999@naver.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💪Skills
+![Java](https://img.shields.io/badge/Java-EE2E24.svg?&style=for-the-badge&logo=Java&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
